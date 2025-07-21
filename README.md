@@ -4,7 +4,7 @@
 
 💻 Apasionado por el desarrollo **full stack**, especializado en tecnologías como **Laravel, React, Node.js y TypeScript**. Me enfoco en la escritura de código limpio, reutilizable y alineado con buenas prácticas de arquitectura de software.
 
-🚀 Actualmente aprendiendo **Docker** y **.NET** para fortalecer mis habilidades en entornos productivos y microservicios.
+🚀 Actualmente aprendiendo **Docker** para fortalecer mis habilidades en entornos productivos.
 
 ---
 
